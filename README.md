@@ -32,20 +32,20 @@ The repository is organized into folders based on the topics and concepts covere
    ```bash
    git clone https://github.com/your-username/c-language-projects.git
 2. Navigate to a Specific Folder:
-    cd folder-name
+    ```cd folder-name```
 
 3. Compile and Run the Program:
 Use a C compiler such as GCC to compile the programs. For example
 
-gcc program-name.c -o program-name  
-./program-name  
+```gcc program-name.c -o program-name ``` 
+ ```  ./program-name  ```
 
 Prerequisites
-Knowledge of C: A basic understanding of C programming concepts.
-Tools: A C compiler such as GCC or an IDE like Code::Blocks, Dev-C++, or Visual Studio Code.
+-> Knowledge of C: A basic understanding of C programming concepts.
+-> Tools: A C compiler such as GCC or an IDE like Code::Blocks, Dev-C++, or Visual Studio Code.
+
 Learning Objectives
 This repository is designed to help you:
-
 Build a strong foundation in C programming.
 Explore practical applications of C in various domains.
 Understand key programming paradigms, such as procedural and modular programming.
