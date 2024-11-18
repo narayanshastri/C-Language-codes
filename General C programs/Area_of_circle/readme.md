@@ -42,6 +42,3 @@ This C program calculates the **area** and **circumference** of a circle based o
 - Using `float` data type for precision in calculations.  
 
 This program is a great starting point for learning how to work with mathematical operations and user input in C.  
-```  
-
-Feel free to modify or expand the description as needed!
