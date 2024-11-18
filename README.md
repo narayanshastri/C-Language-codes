@@ -41,15 +41,16 @@ Use a C compiler such as GCC to compile the programs. For example
  ```  ./program-name  ```
 
 Prerequisites
--> Knowledge of C: A basic understanding of C programming concepts.
--> Tools: A C compiler such as GCC or an IDE like Code::Blocks, Dev-C++, or Visual Studio Code.
+- Knowledge of C: A basic understanding of C programming concepts.
+- Tools: A C compiler such as GCC or an IDE like Code::Blocks, Dev-C++, or Visual Studio Code.
 
 Learning Objectives
 This repository is designed to help you:
-Build a strong foundation in C programming.
-Explore practical applications of C in various domains.
-Understand key programming paradigms, such as procedural and modular programming.
-Implement algorithms and data structures from scratch.
+- Build a strong foundation in C programming.
+- Explore practical applications of C in various domains.
+- Understand key programming paradigms, such as procedural and modular programming.
+- Implement algorithms and data structures from scratch.
+
 Contributions
 Contributions are welcome! If you'd like to add a new program, improve an existing one, or enhance documentation, feel free to fork the repository and submit a pull request.
 
