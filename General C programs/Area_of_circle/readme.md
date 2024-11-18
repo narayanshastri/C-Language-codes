@@ -1,6 +1,3 @@
-
-
-```
 ## Circle Area and Circumference Calculator  
 
 ### Overview  
